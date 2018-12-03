@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform linux -- Python 3.5.2, pytest-3.4.2, py-1.5.2, pluggy-0.6.0
+rootdir: /home/andrew/Desktop/Projects, inifile:
+collected 5 items                                                              
+
+test.py .....                                                            [100%]
+
+=========================== 5 passed in 1.63 seconds ===========================
+
